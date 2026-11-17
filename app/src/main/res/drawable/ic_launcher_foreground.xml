@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- page -->
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M36,28 L62,28 L74,40 L74,80 Q74,82 72,82 L36,82 Q34,82 34,80 L34,30 Q34,28 36,28 Z" />
+    <!-- folded corner -->
+    <path android:fillColor="#FFFFCDD2" android:pathData="M62,28 L74,40 L64,40 Q62,40 62,38 Z" />
+    <!-- image mountains -->
+    <path android:fillColor="#FFEF9A9A" android:pathData="M40,66 L49,54 L55,61 L59,57 L68,66 Z" />
+    <path android:fillColor="#FFEF9A9A" android:pathData="M60,49 m-3.5,0 a3.5,3.5 0,1 1,7 0 a3.5,3.5 0,1 1,-7 0" />
+    <!-- PDF label -->
+    <path android:fillColor="#FFB71C1C" android:pathData="M28,69 L62,69 Q64,69 64,71 L64,77 Q64,79 62,79 L28,79 Q26,79 26,77 L26,71 Q26,69 28,69 Z" />
+    <!-- P -->
+    <path android:fillColor="#FFFFFFFF" android:pathData="M30,71.5 L33.5,71.5 Q36,71.5 36,73.8 Q36,76 33.5,76 L31.6,76 L31.6,77.5 L30,77.5 Z M31.6,72.9 L31.6,74.6 L33.4,74.6 Q34.4,74.6 34.4,73.75 Q34.4,72.9 33.4,72.9 Z" />
+    <!-- D -->
+    <path android:fillColor="#FFFFFFFF" android:pathData="M38,71.5 L40.6,71.5 Q44.2,71.5 44.2,74.5 Q44.2,77.5 40.6,77.5 L38,77.5 Z M39.6,72.9 L39.6,76.1 L40.5,76.1 Q42.6,76.1 42.6,74.5 Q42.6,72.9 40.5,72.9 Z" />
+    <!-- F -->
+    <path android:fillColor="#FFFFFFFF" android:pathData="M46.3,71.5 L50.6,71.5 L50.6,72.9 L47.9,72.9 L47.9,74 L50.2,74 L50.2,75.4 L47.9,75.4 L47.9,77.5 L46.3,77.5 Z" />
+</vector>
